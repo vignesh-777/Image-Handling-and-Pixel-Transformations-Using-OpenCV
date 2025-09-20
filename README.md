@@ -1,7 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ## NAME:vignesh R
 ## REG NO:212223240177
-## Date No:
 ## AIM:
 
 Write a Python program using OpenCV that performs the following tasks:
